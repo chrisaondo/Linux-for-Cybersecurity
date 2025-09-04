@@ -63,7 +63,7 @@ This portfolio is built from a multi-chapter curriculum that covers:
 
 ## 🏆 Featured Project
 
-### [Linux Users & Permissions Lab](https://github.com/chrisaondo/1-Linux-user-permission-lab)
+### [1. Linux Users & Permissions Lab](https://github.com/chrisaondo/1-Linux-user-permission-lab)
 
 Explore my first major project focusing on user and permission management in Linux. This lab demonstrates adding and organizing users, configuring groups, and securing files using permissions and ownership.  
 *Check it out for practical scripts, scenarios, and step-by-step notes!*
